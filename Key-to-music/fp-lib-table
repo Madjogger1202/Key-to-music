@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Key-to-music")(type "KiCad")(uri "D:/Github_dev/Key-to-music/Key-to-music.pretty")(options "")(descr ""))
+)

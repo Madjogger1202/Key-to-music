@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NAU88C10")(type "KiCad")(uri "${KIPRJMOD}/NAU88C10.kicad_sym")(options "")(descr ""))
+)
